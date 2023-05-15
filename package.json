@@ -1,0 +1,30 @@
+{
+  "name": "random-item-from",
+  "version": "1.0.0",
+  "description": "Get random item from strings, arrays, dictionaries and maps",
+  "main": "random-item-from.js",
+  "exports": {
+    "import": "./random-item-from.js",
+    "require": "./random-item-from.cjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/random-item-from.js.git"
+  },
+  "keywords": [
+    "random-item",
+    "array",
+    "string",
+    "map",
+    "dictionary",
+    "random",
+    "random-array"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/random-item-from.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/random-item-from.js#readme"
+}
